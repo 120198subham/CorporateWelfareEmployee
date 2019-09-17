@@ -242,7 +242,7 @@ public class CorporateWelfareEmployee {
 					System.out.print("Enter Proper Option");
 				}
 			sc.close();
-			
+
 			}
 			else {
 				System.out.println("NotConnected");
